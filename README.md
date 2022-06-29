@@ -1,5 +1,4 @@
 # Canon IJ Setup - ij.start.canon ｜ TS3522
-![image](https://repository-images.githubusercontent.com/507990935/9bd3b7d8-dc0f-4a8f-a4d3-a1c260f97d57)
 The Canon IJ Setup is an all-in-one printer that comes with powerful features and delivers incredible performance. Canon IJ Setup is ideal for home as well as office use. Canon IJ Setup delivers high-quality printing solutions to users with great speed and performance. Before you start using the Canon printing services, you need to complete the printer setup and download the drivers by visiting Canon IJ Setup printer official website.
 1. To get the latest and updated drivers for all your ** Canon printer** models.
 2. All the printers are very fast and reliable.
